@@ -47,3 +47,9 @@ Students will be assessed based on:
 * The tidiness or usability of the final dataset
 * Reproducibility (can a peer reviewer repeat your entire workflow?)
 
+## Reading list
+(reading list _candidates_)
+
+[Biomass And Allometry Database](https://ropensci.org/blog/2015/06/03/baad/)
+[Nice R code -- projects](http://nicercode.github.io/blog/2013-04-05-projects/)
+[rrrpkg](https://github.com/ropensci/rrrpkg)
